@@ -1,8 +1,6 @@
-metallumIndexLookup = {
-
-    # Index lookup for bands with multiple Metallum results
-    # 'None' indicates band is not in Metallum archives
-
+# Index lookup for bands with multiple Metallum results
+# 'None' indicates band is not in Metallum archives
+metallum_index_lookup = {
     'Angel': None,
     'Autopsy': 1,
     'Black Death': 6,
@@ -35,5 +33,4 @@ metallumIndexLookup = {
     'Trouble': 1,
     'Warlock': 1,
     'Winter': 2,
-
 }
